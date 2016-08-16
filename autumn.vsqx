@@ -1227,7 +1227,7 @@
 				<t>34680</t>
 				<dur>240</dur>
 				<n>64</n>
-				<v>64</v>
+				<v>38</v>
 				<y><![CDATA[meng]]></y>
 				<p><![CDATA[m @N]]></p>
 				<nStyle>
@@ -1246,7 +1246,7 @@
 				<t>34920</t>
 				<dur>240</dur>
 				<n>65</n>
-				<v>64</v>
+				<v>57</v>
 				<y><![CDATA[huan]]></y>
 				<p><![CDATA[x ua_n]]></p>
 				<nStyle>
@@ -1265,7 +1265,7 @@
 				<t>35160</t>
 				<dur>240</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>76</v>
 				<y><![CDATA[ban]]></y>
 				<p><![CDATA[p a_n]]></p>
 				<nStyle>
@@ -1284,7 +1284,7 @@
 				<t>35400</t>
 				<dur>240</dur>
 				<n>60</n>
-				<v>64</v>
+				<v>42</v>
 				<y><![CDATA[bin]]></y>
 				<p><![CDATA[p i_n]]></p>
 				<nStyle>
@@ -1303,7 +1303,7 @@
 				<t>35640</t>
 				<dur>360</dur>
 				<n>59</n>
-				<v>64</v>
+				<v>57</v>
 				<y><![CDATA[fen]]></y>
 				<p><![CDATA[f @_n]]></p>
 				<nStyle>
@@ -1322,7 +1322,7 @@
 				<t>36000</t>
 				<dur>120</dur>
 				<n>60</n>
-				<v>64</v>
+				<v>55</v>
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
@@ -1341,7 +1341,7 @@
 				<t>36120</t>
 				<dur>240</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>84</v>
 				<y><![CDATA[jing]]></y>
 				<p><![CDATA[ts\ iN]]></p>
 				<nStyle>
@@ -1360,7 +1360,7 @@
 				<t>36360</t>
 				<dur>240</dur>
 				<n>60</n>
-				<v>64</v>
+				<v>45</v>
 				<y><![CDATA[se]]></y>
 				<p><![CDATA[s 7]]></p>
 				<nStyle>
@@ -1379,7 +1379,7 @@
 				<t>36600</t>
 				<dur>240</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>53</v>
 				<y><![CDATA[feng]]></y>
 				<p><![CDATA[f @N]]></p>
 				<nStyle>
@@ -1398,7 +1398,7 @@
 				<t>36840</t>
 				<dur>240</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>72</v>
 				<y><![CDATA[dui]]></y>
 				<p><![CDATA[t uei]]></p>
 				<nStyle>
@@ -1417,7 +1417,7 @@
 				<t>37080</t>
 				<dur>360</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>84</v>
 				<y><![CDATA[ye]]></y>
 				<p><![CDATA[iE_r]]></p>
 				<nStyle>
@@ -1436,7 +1436,7 @@
 				<t>37440</t>
 				<dur>120</dur>
 				<n>60</n>
-				<v>64</v>
+				<v>61</v>
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
@@ -1455,7 +1455,7 @@
 				<t>37560</t>
 				<dur>960</dur>
 				<n>64</n>
-				<v>64</v>
+				<v>95</v>
 				<y><![CDATA[lian]]></y>
 				<p><![CDATA[l iE_n]]></p>
 				<nStyle>
@@ -1480,7 +1480,7 @@
 				<t>38520</t>
 				<dur>120</dur>
 				<n>57</n>
-				<v>64</v>
+				<v>107</v>
 				<y><![CDATA[ta]]></y>
 				<p><![CDATA[t_h a]]></p>
 				<nStyle>
@@ -1499,7 +1499,7 @@
 				<t>38640</t>
 				<dur>120</dur>
 				<n>57</n>
-				<v>64</v>
+				<v>123</v>
 				<y><![CDATA[zai]]></y>
 				<p><![CDATA[ts aI]]></p>
 				<nStyle>
@@ -1518,7 +1518,7 @@
 				<t>38760</t>
 				<dur>120</dur>
 				<n>57</n>
-				<v>64</v>
+				<v>107</v>
 				<y><![CDATA[meng]]></y>
 				<p><![CDATA[m @N]]></p>
 				<nStyle>
@@ -1537,7 +1537,7 @@
 				<t>38880</t>
 				<dur>480</dur>
 				<n>57</n>
-				<v>64</v>
+				<v>89</v>
 				<y><![CDATA[jian]]></y>
 				<p><![CDATA[ts\ iE_n]]></p>
 				<nStyle>
@@ -1562,7 +1562,7 @@
 				<t>39360</t>
 				<dur>120</dur>
 				<n>57</n>
-				<v>64</v>
+				<v>101</v>
 				<y><![CDATA[que]]></y>
 				<p><![CDATA[ts\_h yE_r]]></p>
 				<nStyle>
@@ -1581,7 +1581,7 @@
 				<t>39480</t>
 				<dur>240</dur>
 				<n>59</n>
-				<v>64</v>
+				<v>121</v>
 				<y><![CDATA[kan]]></y>
 				<p><![CDATA[k_h a_n]]></p>
 				<nStyle>
@@ -1600,7 +1600,7 @@
 				<t>39720</t>
 				<dur>120</dur>
 				<n>60</n>
-				<v>64</v>
+				<v>113</v>
 				<y><![CDATA[bu]]></y>
 				<p><![CDATA[p u]]></p>
 				<nStyle>
@@ -1619,7 +1619,7 @@
 				<t>39840</t>
 				<dur>120</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>98</v>
 				<y><![CDATA[jian]]></y>
 				<p><![CDATA[ts\ iE_n]]></p>
 				<nStyle>
@@ -1638,7 +1638,7 @@
 				<t>40440</t>
 				<dur>120</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>105</v>
 				<y><![CDATA[hui]]></y>
 				<p><![CDATA[x uei]]></p>
 				<nStyle>
@@ -1657,7 +1657,7 @@
 				<t>40560</t>
 				<dur>120</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>117</v>
 				<y><![CDATA[shou]]></y>
 				<p><![CDATA[s` @U]]></p>
 				<nStyle>
@@ -1676,7 +1676,7 @@
 				<t>40680</t>
 				<dur>120</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>98</v>
 				<y><![CDATA[yuan]]></y>
 				<p><![CDATA[y{_n]]></p>
 				<nStyle>
@@ -1695,7 +1695,7 @@
 				<t>40800</t>
 				<dur>480</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>78</v>
 				<y><![CDATA[pan]]></y>
 				<p><![CDATA[p_h a_n]]></p>
 				<nStyle>
@@ -1720,7 +1720,7 @@
 				<t>41280</t>
 				<dur>120</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>103</v>
 				<y><![CDATA[zhan]]></y>
 				<p><![CDATA[ts` a_n]]></p>
 				<nStyle>
@@ -1739,7 +1739,7 @@
 				<t>41400</t>
 				<dur>240</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>117</v>
 				<y><![CDATA[zhuan]]></y>
 				<p><![CDATA[ts` ua_n]]></p>
 				<nStyle>
@@ -1758,7 +1758,7 @@
 				<t>41640</t>
 				<dur>120</dur>
 				<n>67</n>
-				<v>64</v>
+				<v>104</v>
 				<y><![CDATA[lian]]></y>
 				<p><![CDATA[l iE_n]]></p>
 				<nStyle>
@@ -1777,7 +1777,7 @@
 				<t>41760</t>
 				<dur>120</dur>
 				<n>64</n>
-				<v>64</v>
+				<v>84</v>
 				<y><![CDATA[mian]]></y>
 				<p><![CDATA[m iE_n]]></p>
 				<nStyle>
@@ -1796,7 +1796,7 @@
 				<t>42120</t>
 				<dur>120</dur>
 				<n>64</n>
-				<v>64</v>
+				<v>107</v>
 				<y><![CDATA[zai]]></y>
 				<p><![CDATA[ts aI]]></p>
 				<nStyle>
@@ -1815,7 +1815,7 @@
 				<t>42240</t>
 				<dur>120</dur>
 				<n>67</n>
-				<v>64</v>
+				<v>118</v>
 				<y><![CDATA[na]]></y>
 				<p><![CDATA[n a]]></p>
 				<nStyle>
@@ -1834,7 +1834,7 @@
 				<t>42360</t>
 				<dur>240</dur>
 				<n>69</n>
-				<v>64</v>
+				<v>86</v>
 				<y><![CDATA[hong]]></y>
 				<p><![CDATA[x UN]]></p>
 				<nStyle>
@@ -1853,7 +1853,7 @@
 				<t>42600</t>
 				<dur>240</dur>
 				<n>67</n>
-				<v>64</v>
+				<v>100</v>
 				<y><![CDATA[ye]]></y>
 				<p><![CDATA[iE_r]]></p>
 				<nStyle>
@@ -1872,7 +1872,7 @@
 				<t>42840</t>
 				<dur>240</dur>
 				<n>65</n>
-				<v>64</v>
+				<v>81</v>
 				<y><![CDATA[bei]]></y>
 				<p><![CDATA[p ei]]></p>
 				<nStyle>
@@ -1891,7 +1891,7 @@
 				<t>43080</t>
 				<dur>240</dur>
 				<n>64</n>
-				<v>64</v>
+				<v>57</v>
 				<y><![CDATA[hou]]></y>
 				<p><![CDATA[x @U]]></p>
 				<nStyle>
@@ -1910,7 +1910,7 @@
 				<t>43320</t>
 				<dur>360</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>72</v>
 				<y><![CDATA[ni]]></y>
 				<p><![CDATA[n i]]></p>
 				<nStyle>
@@ -1929,7 +1929,7 @@
 				<t>43680</t>
 				<dur>120</dur>
 				<n>59</n>
-				<v>64</v>
+				<v>87</v>
 				<y><![CDATA[wei]]></y>
 				<p><![CDATA[uei]]></p>
 				<nStyle>
@@ -1948,7 +1948,7 @@
 				<t>43800</t>
 				<dur>240</dur>
 				<n>60</n>
-				<v>64</v>
+				<v>108</v>
 				<y><![CDATA[xiao]]></y>
 				<p><![CDATA[s\ iAU]]></p>
 				<nStyle>
@@ -1967,7 +1967,7 @@
 				<t>44040</t>
 				<dur>240</dur>
 				<n>64</n>
-				<v>64</v>
+				<v>98</v>
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
@@ -1986,7 +1986,7 @@
 				<t>44280</t>
 				<dur>1920</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>102</v>
 				<y><![CDATA[lian]]></y>
 				<p><![CDATA[l iE_n]]></p>
 				<nStyle>
@@ -2011,7 +2011,7 @@
 				<t>46200</t>
 				<dur>120</dur>
 				<n>60</n>
-				<v>64</v>
+				<v>98</v>
 				<y><![CDATA[you]]></y>
 				<p><![CDATA[i@U]]></p>
 				<nStyle>
@@ -2030,7 +2030,7 @@
 				<t>46320</t>
 				<dur>120</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>107</v>
 				<y><![CDATA[ru]]></y>
 				<p><![CDATA[z` u]]></p>
 				<nStyle>
@@ -2049,7 +2049,7 @@
 				<t>46440</t>
 				<dur>120</dur>
 				<n>64</n>
-				<v>64</v>
+				<v>117</v>
 				<y><![CDATA[yi]]></y>
 				<p><![CDATA[i]]></p>
 				<nStyle>
@@ -2068,7 +2068,7 @@
 				<t>46560</t>
 				<dur>120</dur>
 				<n>65</n>
-				<v>64</v>
+				<v>121</v>
 				<y><![CDATA[zhen]]></y>
 				<p><![CDATA[ts` @_n]]></p>
 				<nStyle>
@@ -2087,7 +2087,7 @@
 				<t>46680</t>
 				<dur>720</dur>
 				<n>67</n>
-				<v>64</v>
+				<v>105</v>
 				<y><![CDATA[feng]]></y>
 				<p><![CDATA[f @N]]></p>
 				<nStyle>
@@ -2112,7 +2112,7 @@
 				<t>47400</t>
 				<dur>240</dur>
 				<n>64</n>
-				<v>64</v>
+				<v>86</v>
 				<y><![CDATA[you]]></y>
 				<p><![CDATA[i@U]]></p>
 				<nStyle>
@@ -2131,7 +2131,7 @@
 				<t>47640</t>
 				<dur>360</dur>
 				<n>65</n>
-				<v>64</v>
+				<v>112</v>
 				<y><![CDATA[ye]]></y>
 				<p><![CDATA[iE_r]]></p>
 				<nStyle>
@@ -2150,7 +2150,7 @@
 				<t>48000</t>
 				<dur>120</dur>
 				<n>64</n>
-				<v>64</v>
+				<v>101</v>
 				<y><![CDATA[zai]]></y>
 				<p><![CDATA[ts aI]]></p>
 				<nStyle>
@@ -2169,7 +2169,7 @@
 				<t>48120</t>
 				<dur>240</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>80</v>
 				<y><![CDATA[zhe]]></y>
 				<p><![CDATA[ts` 7]]></p>
 				<nStyle>
@@ -2188,7 +2188,7 @@
 				<t>48360</t>
 				<dur>240</dur>
 				<n>60</n>
-				<v>64</v>
+				<v>61</v>
 				<y><![CDATA[shou]]></y>
 				<p><![CDATA[s` @U]]></p>
 				<nStyle>
@@ -2207,7 +2207,7 @@
 				<t>48600</t>
 				<dur>360</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>52</v>
 				<y><![CDATA[jing]]></y>
 				<p><![CDATA[ts\ iN]]></p>
 				<nStyle>
@@ -2226,7 +2226,7 @@
 				<t>48960</t>
 				<dur>120</dur>
 				<n>64</n>
-				<v>64</v>
+				<v>90</v>
 				<y><![CDATA[mi]]></y>
 				<p><![CDATA[m i]]></p>
 				<nStyle>
@@ -2245,7 +2245,7 @@
 				<t>49080</t>
 				<dur>360</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>59</v>
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
@@ -2264,7 +2264,7 @@
 				<t>49440</t>
 				<dur>120</dur>
 				<n>60</n>
-				<v>64</v>
+				<v>84</v>
 				<y><![CDATA[shi]]></y>
 				<p><![CDATA[s` i`]]></p>
 				<nStyle>
@@ -2283,7 +2283,7 @@
 				<t>49560</t>
 				<dur>480</dur>
 				<n>60</n>
-				<v>64</v>
+				<v>70</v>
 				<y><![CDATA[pian]]></y>
 				<p><![CDATA[p_h iE_n]]></p>
 				<nStyle>
@@ -2308,7 +2308,7 @@
 				<t>50040</t>
 				<dur>120</dur>
 				<n>60</n>
-				<v>64</v>
+				<v>97</v>
 				<y><![CDATA[mei]]></y>
 				<p><![CDATA[m ei]]></p>
 				<nStyle>
@@ -2327,7 +2327,7 @@
 				<t>50160</t>
 				<dur>120</dur>
 				<n>59</n>
-				<v>64</v>
+				<v>113</v>
 				<y><![CDATA[yi]]></y>
 				<p><![CDATA[i]]></p>
 				<nStyle>
@@ -2346,7 +2346,7 @@
 				<t>50280</t>
 				<dur>120</dur>
 				<n>60</n>
-				<v>64</v>
+				<v>120</v>
 				<y><![CDATA[pian]]></y>
 				<p><![CDATA[p_h iE_n]]></p>
 				<nStyle>
@@ -2365,7 +2365,7 @@
 				<t>50400</t>
 				<dur>120</dur>
 				<n>69</n>
-				<v>64</v>
+				<v>127</v>
 				<y><![CDATA[luo]]></y>
 				<p><![CDATA[l uo]]></p>
 				<nStyle>
@@ -2384,7 +2384,7 @@
 				<t>50520</t>
 				<dur>720</dur>
 				<n>67</n>
-				<v>64</v>
+				<v>104</v>
 				<y><![CDATA[ye]]></y>
 				<p><![CDATA[iE_r]]></p>
 				<nStyle>
@@ -2409,7 +2409,7 @@
 				<t>51240</t>
 				<dur>240</dur>
 				<n>72</n>
-				<v>64</v>
+				<v>84</v>
 				<y><![CDATA[dou]]></y>
 				<p><![CDATA[t @U]]></p>
 				<nStyle>
@@ -2428,7 +2428,7 @@
 				<t>51480</t>
 				<dur>360</dur>
 				<n>71</n>
-				<v>64</v>
+				<v>92</v>
 				<y><![CDATA[qin]]></y>
 				<p><![CDATA[ts\_h i_n]]></p>
 				<nStyle>
@@ -2447,7 +2447,7 @@
 				<t>51840</t>
 				<dur>120</dur>
 				<n>72</n>
-				<v>64</v>
+				<v>80</v>
 				<y><![CDATA[zhu]]></y>
 				<p><![CDATA[ts` u]]></p>
 				<nStyle>
@@ -2466,7 +2466,7 @@
 				<t>51960</t>
 				<dur>240</dur>
 				<n>71</n>
-				<v>64</v>
+				<v>53</v>
 				<y><![CDATA[le]]></y>
 				<p><![CDATA[l 7]]></p>
 				<nStyle>
@@ -2485,7 +2485,7 @@
 				<t>52200</t>
 				<dur>240</dur>
 				<n>67</n>
-				<v>64</v>
+				<v>77</v>
 				<y><![CDATA[dui]]></y>
 				<p><![CDATA[t uei]]></p>
 				<nStyle>
@@ -2504,7 +2504,7 @@
 				<t>52440</t>
 				<dur>360</dur>
 				<n>69</n>
-				<v>64</v>
+				<v>98</v>
 				<y><![CDATA[da]]></y>
 				<p><![CDATA[t a]]></p>
 				<nStyle>
@@ -2523,7 +2523,7 @@
 				<t>52800</t>
 				<dur>120</dur>
 				<n>67</n>
-				<v>64</v>
+				<v>71</v>
 				<y><![CDATA[di]]></y>
 				<p><![CDATA[t i]]></p>
 				<nStyle>
@@ -2542,7 +2542,7 @@
 				<t>52920</t>
 				<dur>240</dur>
 				<n>65</n>
-				<v>64</v>
+				<v>94</v>
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
@@ -2561,7 +2561,7 @@
 				<t>53160</t>
 				<dur>240</dur>
 				<n>69</n>
-				<v>64</v>
+				<v>107</v>
 				<y><![CDATA[si]]></y>
 				<p><![CDATA[s i\]]></p>
 				<nStyle>
@@ -2580,7 +2580,7 @@
 				<t>53400</t>
 				<dur>480</dur>
 				<n>67</n>
-				<v>64</v>
+				<v>94</v>
 				<y><![CDATA[nian]]></y>
 				<p><![CDATA[n iE_n]]></p>
 				<nStyle>
@@ -2605,7 +2605,7 @@
 				<t>53880</t>
 				<dur>120</dur>
 				<n>60</n>
-				<v>64</v>
+				<v>100</v>
 				<y><![CDATA[na]]></y>
 				<p><![CDATA[n a]]></p>
 				<nStyle>
@@ -2624,7 +2624,7 @@
 				<t>54000</t>
 				<dur>120</dur>
 				<n>62</n>
-				<v>64</v>
+				<v>108</v>
 				<y><![CDATA[zhen]]></y>
 				<p><![CDATA[ts` @_n]]></p>
 				<nStyle>
@@ -2643,7 +2643,7 @@
 				<t>54120</t>
 				<dur>120</dur>
 				<n>64</n>
-				<v>64</v>
+				<v>113</v>
 				<y><![CDATA[hong]]></y>
 				<p><![CDATA[x UN]]></p>
 				<nStyle>
@@ -2662,7 +2662,7 @@
 				<t>54240</t>
 				<dur>120</dur>
 				<n>65</n>
-				<v>64</v>
+				<v>121</v>
 				<y><![CDATA[feng]]></y>
 				<p><![CDATA[f @N]]></p>
 				<nStyle>
@@ -2681,7 +2681,7 @@
 				<t>54360</t>
 				<dur>720</dur>
 				<n>67</n>
-				<v>64</v>
+				<v>101</v>
 				<y><![CDATA[hou]]></y>
 				<p><![CDATA[x @U]]></p>
 				<nStyle>
@@ -2706,7 +2706,7 @@
 				<t>55080</t>
 				<dur>240</dur>
 				<n>72</n>
-				<v>64</v>
+				<v>85</v>
 				<y><![CDATA[ni]]></y>
 				<p><![CDATA[n i]]></p>
 				<nStyle>
@@ -2725,7 +2725,7 @@
 				<t>55320</t>
 				<dur>360</dur>
 				<n>71</n>
-				<v>64</v>
+				<v>56</v>
 				<y><![CDATA[hu]]></y>
 				<p><![CDATA[x u]]></p>
 				<nStyle>
@@ -2744,7 +2744,7 @@
 				<t>55680</t>
 				<dur>120</dur>
 				<n>72</n>
-				<v>64</v>
+				<v>88</v>
 				<y><![CDATA[ran]]></y>
 				<p><![CDATA[z` a_n]]></p>
 				<nStyle>
@@ -2763,7 +2763,7 @@
 				<t>55800</t>
 				<dur>240</dur>
 				<n>74</n>
-				<v>64</v>
+				<v>108</v>
 				<y><![CDATA[chu]]></y>
 				<p><![CDATA[ts`_h u]]></p>
 				<nStyle>
@@ -2782,7 +2782,7 @@
 				<t>56040</t>
 				<dur>240</dur>
 				<n>72</n>
-				<v>64</v>
+				<v>84</v>
 				<y><![CDATA[xian]]></y>
 				<p><![CDATA[s\ iE_n]]></p>
 				<nStyle>
@@ -2801,7 +2801,7 @@
 				<t>56280</t>
 				<dur>360</dur>
 				<n>74</n>
-				<v>64</v>
+				<v>67</v>
 				<y><![CDATA[zai]]></y>
 				<p><![CDATA[ts aI]]></p>
 				<nStyle>
@@ -2820,7 +2820,7 @@
 				<t>56640</t>
 				<dur>120</dur>
 				<n>74</n>
-				<v>64</v>
+				<v>81</v>
 				<y><![CDATA[wo]]></y>
 				<p><![CDATA[uo]]></p>
 				<nStyle>
@@ -2839,7 +2839,7 @@
 				<t>56760</t>
 				<dur>240</dur>
 				<n>77</n>
-				<v>64</v>
+				<v>101</v>
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
@@ -2858,7 +2858,7 @@
 				<t>57000</t>
 				<dur>240</dur>
 				<n>76</n>
-				<v>64</v>
+				<v>88</v>
 				<y><![CDATA[shi]]></y>
 				<p><![CDATA[s` i`]]></p>
 				<nStyle>
@@ -2877,7 +2877,7 @@
 				<t>57240</t>
 				<dur>480</dur>
 				<n>72</n>
-				<v>64</v>
+				<v>70</v>
 				<y><![CDATA[xian]]></y>
 				<p><![CDATA[s\ iE_n]]></p>
 				<nStyle>
@@ -2902,7 +2902,7 @@
 				<t>57720</t>
 				<dur>480</dur>
 				<n>72</n>
-				<v>64</v>
+				<v>96</v>
 				<y><![CDATA[deng]]></y>
 				<p><![CDATA[t @N]]></p>
 				<nStyle>
@@ -2927,7 +2927,7 @@
 				<t>58200</t>
 				<dur>1200</dur>
 				<n>79</n>
-				<v>64</v>
+				<v>115</v>
 				<y><![CDATA[dai]]></y>
 				<p><![CDATA[t aI]]></p>
 				<nStyle>
@@ -2952,7 +2952,7 @@
 				<t>59400</t>
 				<dur>120</dur>
 				<n>67</n>
-				<v>64</v>
+				<v>113</v>
 				<y><![CDATA[na]]></y>
 				<p><![CDATA[n a]]></p>
 				<nStyle>
@@ -2971,7 +2971,7 @@
 				<t>59520</t>
 				<dur>120</dur>
 				<n>67</n>
-				<v>64</v>
+				<v>91</v>
 				<y><![CDATA[fen]]></y>
 				<p><![CDATA[f @_n]]></p>
 				<nStyle>
@@ -2990,7 +2990,7 @@
 				<t>59640</t>
 				<dur>360</dur>
 				<n>76</n>
-				<v>64</v>
+				<v>103</v>
 				<y><![CDATA[zui]]></y>
 				<p><![CDATA[ts uei]]></p>
 				<nStyle>
@@ -3009,7 +3009,7 @@
 				<t>60000</t>
 				<dur>120</dur>
 				<n>77</n>
-				<v>64</v>
+				<v>116</v>
 				<y><![CDATA[mei]]></y>
 				<p><![CDATA[m ei]]></p>
 				<nStyle>
@@ -3028,7 +3028,7 @@
 				<t>60120</t>
 				<dur>240</dur>
 				<n>76</n>
-				<v>64</v>
+				<v>100</v>
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
@@ -3047,7 +3047,7 @@
 				<t>60360</t>
 				<dur>240</dur>
 				<n>74</n>
-				<v>64</v>
+				<v>89</v>
 				<y><![CDATA[ai]]></y>
 				<p><![CDATA[aI]]></p>
 				<nStyle>
@@ -3066,7 +3066,7 @@
 				<t>60600</t>
 				<dur>960</dur>
 				<n>72</n>
-				<v>64</v>
+				<v>50</v>
 				<y><![CDATA[lian]]></y>
 				<p><![CDATA[l iE_n]]></p>
 				<nStyle>
